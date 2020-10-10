@@ -21,7 +21,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Alernate imgur link: https://imgur.com/a/Yoq3ogX
+
+
 <img src='CPU3.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
