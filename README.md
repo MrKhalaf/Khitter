@@ -2,7 +2,30 @@
 
 **Khitter** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can **compose and post a new tweet**
+  - [X] User can click a “Compose” icon in the Action Bar on the top right
+  - [X] User can then enter a new tweet and post this to twitter
+  - [X] User is taken back to home timeline with **new tweet visible** in timeline
+  - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+imgur link: https://imgur.com/a/b5zRUQO
+
+<img src='CPU4.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+
+# Part 1
 
 ## User Stories
 
